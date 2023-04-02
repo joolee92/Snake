@@ -1,4 +1,5 @@
 # Snake
 
-The classic game, "Snake" ! \n
+The classic game, "Snake" ! 
+
 Coded by Joo Lee
